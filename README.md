@@ -1,1 +1,1 @@
-# Make_sample
+# corewar
